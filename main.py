@@ -18,7 +18,7 @@ for i in range(42):
     print(flines[random.randint(0,(len(flines)-1))])
     i=i+1
     time.sleep(0.01)
-
+print("hi")
 print("\n")
 runCode = input("Install required files? ")
 print("Installing...")
